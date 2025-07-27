@@ -34,6 +34,10 @@ A simple console-based DVD management system in C# that allows staff and members
 
 ## 🚀 How to Run
 
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/yug9190/consol-app-.git
+
+Open the project in Visual Studio or any C# IDE.
+
+Build and run the project.
